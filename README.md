@@ -1,2 +1,0 @@
-# torrex.github.io
-TorrexHost
