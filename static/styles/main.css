@@ -561,7 +561,7 @@ header.fixed #logo
     position: relative;
     width: var(--sizeX);
     height: var(--sizeY);
-    margin-left: 49.3%;
+    margin-left: 49.25%;
     border: calc(var(--sizeX) / 10) solid var(--color);
     border-radius: 50px;
     box-sizing: border-box;
