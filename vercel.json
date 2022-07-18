@@ -2,7 +2,7 @@
 {
   "functions": {
     "api/**/*.py": {
-      "excludeFiles": "templates/**"
+      "excludeFiles": "**/*.html"
     }
   }
 }
