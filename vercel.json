@@ -1,12 +1,4 @@
 {
-"functions": {
-    "api/**/*.py": {
-      "excludeFiles": "static/**"
-    }
-  }
-}
-
-{
     "version": 2,
     "builds": [
         {
