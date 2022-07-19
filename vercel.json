@@ -11,7 +11,10 @@
             "src": "/(.*)",
             "dest": "/"
         }
-    ]
+    ],
+     "api/**/*.py": {
+      "excludeFiles": "**/*.html"
+     }
 }
 
 
