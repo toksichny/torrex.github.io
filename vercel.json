@@ -13,7 +13,7 @@
         }
     ],
      "api/**/*.py": {
-      "excludeFiles": "downloads/"
+      "excludeFiles": "downloads/**"
      }
 }
 
