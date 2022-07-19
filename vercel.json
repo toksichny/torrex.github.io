@@ -12,9 +12,10 @@
             "dest": "/"
         }
     ],
-     "api/**/*.py": {
+    "functions": {
+    "downloads/**": {
       "excludeFiles": "downloads/**"
-     }
+    }
 }
 
 
