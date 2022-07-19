@@ -1,11 +1,4 @@
-{
-  "functions": {
-    "./index.py": {
-      "excludeFiles": "downloads/**"
-    }
-  }
-}
-{
+ {
     "version": 2,
     "builds": [
         {
