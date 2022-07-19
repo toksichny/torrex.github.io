@@ -1,4 +1,11 @@
 {
+  "functions": {
+    "api/**/*.py": {
+      "excludeFiles": "downloads/**"
+    }
+  }
+}
+{
     "version": 2,
     "builds": [
         {
@@ -11,11 +18,7 @@
             "src": "/(.*)",
             "dest": "/"
         }
-    ],
-    "functions": {
-    "downloads/**": {
-      "excludeFiles": "downloads/**"
-    }
+    ]
 }
 
 
